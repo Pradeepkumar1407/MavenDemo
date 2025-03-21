@@ -1,1 +1,1 @@
-This is an poll scm
+This is an web hook trigger
